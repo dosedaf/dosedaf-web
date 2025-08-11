@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/knowme/</loc>
+    <loc>http://localhost:1313/dosedaf-web/</loc>
     <lastmod>2025-08-11T12:00:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/knowme/writings/first/</loc>
+    <loc>http://localhost:1313/dosedaf-web/writings/first/</loc>
     <lastmod>2025-08-11T12:00:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/knowme/writings/</loc>
+    <loc>http://localhost:1313/dosedaf-web/writings/</loc>
     <lastmod>2025-08-11T12:00:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/knowme/posts/</loc>
+    <loc>http://localhost:1313/dosedaf-web/posts/</loc>
     <lastmod>2024-08-18T13:34:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/knowme/categories/</loc>
+    <loc>http://localhost:1313/dosedaf-web/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/knowme/projects/</loc>
+    <loc>http://localhost:1313/dosedaf-web/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/knowme/tags/</loc>
+    <loc>http://localhost:1313/dosedaf-web/tags/</loc>
   </url>
 </urlset>
