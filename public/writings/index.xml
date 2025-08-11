@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writings on </title>
+    <link>//localhost:1313/writings/</link>
+    <description>Recent content in Writings on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Aug 2025 12:00:00 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/writings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/writings/first/</link>
+      <pubDate>Mon, 11 Aug 2025 12:00:00 +0700</pubDate>
+      <guid>//localhost:1313/writings/first/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to My Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first test post.&lt;br&gt;&#xA;I’ll use this space to share my thoughts, write tutorials, or document things I learn.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

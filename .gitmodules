@@ -1,0 +1,9 @@
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog
+[submodule "themes/papermod"]
+	path = themes/papermod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/nostyleplease"]
+	path = themes/nostyleplease
+	url = https://github.com/Masellum/hugo-theme-nostyleplease.git
