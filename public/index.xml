@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on </title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/knowme/</link>
     <description>Recent content in Home on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Aug 2025 12:00:00 +0700</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/knowme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>//localhost:1313/writings/first/</link>
+      <link>http://localhost:1313/knowme/writings/first/</link>
       <pubDate>Mon, 11 Aug 2025 12:00:00 +0700</pubDate>
-      <guid>//localhost:1313/writings/first/</guid>
+      <guid>http://localhost:1313/knowme/writings/first/</guid>
       <description>&lt;h2 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to My Blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first test post.&lt;br&gt;&#xA;I’ll use this space to share my thoughts, write tutorials, or document things I learn.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Projects</title>
-      <link>//localhost:1313/projects/</link>
+      <link>http://localhost:1313/knowme/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/</guid>
+      <guid>http://localhost:1313/knowme/projects/</guid>
       <description>&lt;p&gt;Here are some of my public repositories:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/dosedaf/kyasshu&#34;&gt;Kyasshu&lt;/a&gt; — A Redis-inspired in-memory key-value store.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/dosedaf/widyanaya-api&#34;&gt;Widyanaya API&lt;/a&gt; — REST API that helps people with publication.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/dosedaf/veovim&#34;&gt;Veovim&lt;/a&gt; — My current VSCode profile.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/dosedaf/nix&#34;&gt;Nix&lt;/a&gt; — My Nix configuration files.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
