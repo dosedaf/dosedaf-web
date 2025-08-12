@@ -13,9 +13,9 @@ url = "/"
 weight = 1
 [[menu.main]]
 name = "Writings"
-url = "/dosedaf-web/writings/"
+url = "/writings/"
 weight = 2
 [[menu.main]]
 name = "Projects"
-url = "/dosedaf-web/projects/"
+url = "/projects/"
 weight = 3
