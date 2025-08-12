@@ -1,0 +1,16 @@
+[[entries]]
+title = "Explore"
+
+[[entries.entries]]
+title = "Writings"
+url = "/writings/"
+
+[[entries.entries.entries]]
+title = "Articles, blog posts, and thoughts."
+
+[[entries.entries]]
+title = "Projects"
+url = "/projects/"
+
+[[entries.entries.entries]]
+title = "Software I’ve built and maintain."
