@@ -1,6 +1,8 @@
 baseURL = "https://dosedaf.github.io/dosedaf-web/"
 languageCode = "en-us"
 theme = "nostyleplease"
+canonifyURLs = true
+
 
 [params]
 author = "dosedaf"
